@@ -14,7 +14,8 @@
 6. [Driver Performance & Cost Diagnostics](#-driver-performance--cost-diagnostics)   
 7. [Strategic Insights & Recommendations](#-strategic-insights--recommendations)   
 8. [Technical Implementation](#-technical-implementation-details)  
-9. [About the Analyst](#-about-the-analyst)  
+9. [Skills Demonstrated](#skills-demonstrated)  
+10. [Contact](#contact)
 
 
 ---
@@ -177,4 +178,38 @@ Conditional formatting highlights cost outliers and efficiency variations.
 - Driver Contribution %  
 
 ---
+## Skills Demonstrated
 
+- **Advanced Power BI Dashboard Development**  
+  Designed an interactive, multi-page analytical dashboard with dynamic slicers, KPI cards, and drill-through insights tailored for healthcare operations.
+
+- **DAX and Data Modeling Expertise**  
+  Developed complex DAX measures, calculated tables, and custom time-intelligence logic to support accurate patient waitlist analytics and historical comparisons.
+
+- **Power Query Transformation Workflows**  
+  Cleaned, reshaped, merged, and standardized diverse datasets using Power Query M-language to ensure data integrity and optimal refresh performance.
+
+- **Fact/Dimension Schema Design**  
+  Implemented a robust star-schema model to separate facts from dimensions, enabling efficient aggregation, slicing, and filtering across multiple performance metrics.
+
+- **Performance Optimization**  
+  Applied best practices, including column reduction, measure optimization, and relationship tuning to enhance dashboard responsiveness and minimize resource consumption.
+
+- **Data Analysis, Healthcare KPIs, and Reporting**  
+  Translated raw health service data into interpretable metrics such as ALOS, GMLOS, waitlist trends, specialty-level KPIs, age-band insights, and multi-year backlog patterns.
+
+- **Storytelling for Executive Decision-Making**  
+  Synthesized complex operational data into clear, actionable insights for senior leaders, ensuring the dashboard supports strategic planning, capacity management, and policy decisions.
+
+---
+
+## Contact
+
+**Name:** Dike Nnaemeka Destine  
+**Role:** Data Analyst | BI Developer | Instructor  
+
+**GitHub:**  
+[https://github.com/Destinetheanalyst](https://github.com/Destinetheanalyst)
+
+**LinkedIn:**  
+[https://www.linkedin.com/in/nnaemeka-destine-dike-9a27b531a](https://www.linkedin.com/in/nnaemeka-destine-dike-9a27b531a)
